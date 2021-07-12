@@ -1,4 +1,4 @@
 docopt
 requests
-BeautifulSoup
+bs4
 tqdm
