@@ -1,6 +1,6 @@
 from .SearchEngineParser import SearchEngineParser
 from ..FileDownload import FileDownload
-from BeautifulSoup import BeautifulSoup
+from bs4 import BeautifulSoup
 
 class GoogleParser(SearchEngineParser):
 	'''
